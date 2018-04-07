@@ -8838,7 +8838,9 @@ button.bg-dark:focus {
 .text-white {
   color: #fff !important;
 }
-
+.text-purple {
+  color: #ffbb00 !important;
+}
 .text-primary {
   color: # -webkit-animation: color-change 1s infinite;
     -moz-animation: color-change 1s infinite;
